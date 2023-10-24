@@ -1,0 +1,11 @@
+{
+  "name": "webpack-es6-module-review",
+  "version": "1.0.0",
+  "description": "a review of mid-level javascript concepts",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "seamus",
+  "license": "ISC"
+}
